@@ -1,0 +1,14 @@
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\bin\Debug\net6.0\laboratorna6.exe
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\bin\Debug\net6.0\laboratorna6.deps.json
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\bin\Debug\net6.0\laboratorna6.runtimeconfig.json
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\bin\Debug\net6.0\laboratorna6.dll
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\bin\Debug\net6.0\laboratorna6.pdb
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\laboratorna6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\laboratorna6.AssemblyInfoInputs.cache
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\laboratorna6.AssemblyInfo.cs
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\laboratorna6.csproj.CoreCompileInputs.cache
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\laboratorna6.dll
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\refint\laboratorna6.dll
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\laboratorna6.pdb
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\laboratorna6.genruntimeconfig.cache
+C:\Users\leski\OneDrive\Робочий стіл\2 kyrs\OOP\projektu\OOPLab6\laboratorna6\obj\Debug\net6.0\ref\laboratorna6.dll

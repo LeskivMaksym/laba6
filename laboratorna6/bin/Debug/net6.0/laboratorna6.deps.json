@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "laboratorna6/1.0.0": {
+        "runtime": {
+          "laboratorna6.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "laboratorna6/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
